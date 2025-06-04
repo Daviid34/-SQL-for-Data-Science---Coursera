@@ -26,8 +26,3 @@ Select * from Tracks limit 20;
 ----------
 --375418
 ----------
-
-
-
-
--- CODED BY TSG405, 2021
